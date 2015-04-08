@@ -1,0 +1,7 @@
+G:\Projetos\Dishes\Tests\bin\Debug\Tests.dll
+G:\Projetos\Dishes\Tests\bin\Debug\Tests.pdb
+G:\Projetos\Dishes\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+G:\Projetos\Dishes\Tests\obj\Debug\Tests.dll
+G:\Projetos\Dishes\Tests\obj\Debug\Tests.pdb
+G:\Projetos\Dishes\Tests\bin\Debug\Dishes.exe
+G:\Projetos\Dishes\Tests\bin\Debug\Dishes.pdb

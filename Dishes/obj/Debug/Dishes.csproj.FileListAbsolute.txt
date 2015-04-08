@@ -1,0 +1,6 @@
+G:\Projetos\Dishes\Dishes\bin\Debug\Dishes.exe.config
+G:\Projetos\Dishes\Dishes\bin\Debug\Dishes.exe
+G:\Projetos\Dishes\Dishes\bin\Debug\Dishes.pdb
+G:\Projetos\Dishes\Dishes\obj\Debug\Dishes.csprojResolveAssemblyReference.cache
+G:\Projetos\Dishes\Dishes\obj\Debug\Dishes.exe
+G:\Projetos\Dishes\Dishes\obj\Debug\Dishes.pdb
